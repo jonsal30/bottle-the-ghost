@@ -1,0 +1,10 @@
+exports/
+data/*.json
+data/*.jsonl
+_lab_timeline.csv
+lab_dashboard.html
+map.html
+dashboards/
+__pycache__/
+.DS_Store
+*.zip
